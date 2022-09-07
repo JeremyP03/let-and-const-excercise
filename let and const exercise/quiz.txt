@@ -1,0 +1,11 @@
+What is the difference between var and let?
+A. you cannot redeclare with let.
+
+What is the deference between var and const?
+A. you cannot redeclare nor reassing with const but you can do both of them with var.
+
+What is the difference between let and const?
+A. you cannot redeclare with let but you can reassing with let, with const you cannot reassing nor redeclare.
+
+What is hoisting?
+A. you can access the variable before it being defined but it will be undefined.
